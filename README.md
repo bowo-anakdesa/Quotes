@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" width ="500" height="350">
+<img src="https://github.com/DSC-SITRC/Tech-Quotes/blob/master/Banner.png" width ="500" height="350">
 </div>
 
 # Wanna step into Open Source World and want that Hacktoberfest T-shirt? 😁 
