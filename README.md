@@ -4,8 +4,9 @@
 
 <br>
 
-# Wanna step into Open Source World and want that Hacktoberfest T-shirt? 😁 
-
+<div align="center">
+<h1>Wanna step into Open Source World and want that Hacktoberfest T-shirt? 😁 </h1>
+</div>
 # Description :
 
 - So as a Name of Repository `Tech-Quotes` it will contain any type of Technology facts, quotes, shortcuts, commands or any information which will from different students.
