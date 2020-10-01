@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/DSC-SITRC/Tech-Quotes/blob/master/Banner.png" width ="700" height="350">
+<img src="https://github.com/DSC-SITRC/Tech-Quotes/blob/master/Banner.png" width ="790" height="350">
 </div>
 
 # Wanna step into Open Source World and want that Hacktoberfest T-shirt? 😁 
@@ -34,6 +34,6 @@
 **Step 6**: And done🥳. You have made it. We will review your Pull request and merge promptly.
 
 <div align="center">
-    <h2>Happy Open Source journey</h2> 
+    <h2>🌎 Happy Open Source journey 🌎</h2> 
 </div>
 
