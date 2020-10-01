@@ -2,6 +2,8 @@
 <img src="https://github.com/DSC-SITRC/Tech-Quotes/blob/master/Banner.png" width ="790" height="350">
 </div>
 
+
+
 # Wanna step into Open Source World and want that Hacktoberfest T-shirt? 😁 
 
 # Description :
