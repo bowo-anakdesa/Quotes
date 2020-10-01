@@ -8,15 +8,15 @@
 
 # Description :
 
-- So as a Name of Repository `< Tech Quotes >` it will contain any type of Technology facts, quotes, shortcuts, commands or any information which will from different students.
+- So as a Name of Repository `Tech-Quotes` it will contain any type of Technology facts, quotes, shortcuts, commands or any information which will from different students.
 
 # How can you contribute?🤔
 
 ## 📌 You just have to follow below mentioned steps ..
 
-**Step 1**: `Fork` the **Tech Quotes** Repo.
+**Step 1**: `Fork` the **Tech-Quotes** Repo.
 
-**Step 2**: Then Open `Contribution.json` file.
+**Step 2**: Then Open [Contribution.json](https://github.com/DSC-SITRC/Tech-Quotes/blob/master/Contribution.json) file.
 
 **Step 3**: Update Contribution JSON file with your **Name**, **Quote Related** to and **Quote** itself.
 ```
