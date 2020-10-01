@@ -1,10 +1,7 @@
 <div align="center">
-<img src="![Banner](https://user-images.githubusercontent.com/56548231/94825729-1d30c000-0424-11eb-8457-767038fb4328.png)" width ="500" height="350">
+<img src="" width ="500" height="350">
 </div>
 
-https://img.shields.io/badge/Open%20Source-First%20Contribution-brightgreen?style=for-the-badge&logo=appveyor
-
-https://img.shields.io/badge/Pull%20Request-Open-blueviolet?style=for-the-badge&logo=appveyor
 # Wanna step into Open Source World and want that Hacktoberfest T-shirt? 😁 
 
 # Description :
