@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/DSC-SITRC/Tech-Quotes/blob/master/Banner.png" width ="790" height="350">
+<img src="https://github.com/DSC-SITRC/Tech-Quotes/blob/master/Banner (2).png" width ="790" height="350">
 </div>
 
 <br>
